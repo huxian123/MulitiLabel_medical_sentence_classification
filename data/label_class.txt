@@ -1,0 +1,6 @@
+category_A 
+category_B 
+category_C 
+category_D 
+category_E 
+category_F 
