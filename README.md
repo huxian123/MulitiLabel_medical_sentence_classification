@@ -1,4 +1,4 @@
-###MulitiLabel medical sentence classification
+### MulitiLabel medical sentence classification
 
 #### 本代码是针对公众健康问句多标签分类的一个简单开源版本的baseline,仅供参考学习
 ##### 数据集格式如下：
@@ -14,4 +14,4 @@ https://github.com/ymcui/Chinese-BERT-wwm
 | BERT+Base | 128     | 15     | 0.4736    |
 | BERT+Base     | 300 | 15 | 0.6302 |
 
-####代码提供出来仅供学习，此代码参考了kaggle的toxic comment classfication
+#### 代码提供出来仅供学习，此代码参考了kaggle的toxic comment classfication
